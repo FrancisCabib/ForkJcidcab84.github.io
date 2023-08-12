@@ -8,10 +8,9 @@ body{
 .presentacion{
     margin-top: -10px;
     width: 100%;
-    height: 700px;
+    height: 1280px;
     background-image: url(../img/inicio.jpg);
-    background-attachment: fixed;
-    background-size: cover;
+    background-size:cover;
     display: flex;
     flex-direction: column;
     justify-content: center;
